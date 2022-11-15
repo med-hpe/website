@@ -18,7 +18,7 @@ Specific cluster deployment tools may place additional restrictions on version s
 
 <!-- body -->
 
-## Supported versions
+## Supported versions 
 
 Kubernetes versions are expressed as **x.y.z**, where **x** is the major version, **y** is the minor version, and **z** is the patch version, following [Semantic Versioning](https://semver.org/) terminology.
 For more information, see [Kubernetes Release Versioning](https://git.k8s.io/sig-release/release-engineering/versioning.md#kubernetes-release-versioning).
